@@ -30,19 +30,7 @@ patient("job","female",34,"mit","single")
 patient("jack","male",24,"mit","single")
 patient("fiona","female",30,"mit","married")
 
-def multiply(x,y):
-    print(x*y)
 
-multiply(2,6)
-multiply(34,60)
-multiply(21,16)
-multiply(15,3)
-
-# create a user-defined function
-# called employees. Display details of
-# five employee s using the
-# following parameters: fullname,age,
-# position,salary
 
 
 
